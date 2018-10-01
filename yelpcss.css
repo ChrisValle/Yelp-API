@@ -1,0 +1,47 @@
+body {
+  background-image: url("https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/c4ea21ebd2a9f551f3bdb8a414bf4232");
+}
+
+h1 {
+  color: whitesmoke;
+  font-family: Arial rounded MT;
+  font-style: rounded;
+  font-weight: bold;
+  font-size:  60px;
+  text-align: center;
+}
+
+p {
+    font-family: Comic Sans MS;
+    font-size: 16px;
+    text-align: center;
+    color: #fff;
+    font: bold;
+    text-decoration: normal;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px 10px 10px;
+  border: 1px solid black;
+  border-radius: 15px;
+  height: auto;  
+  max-width: 300px; 
+  max-height: 300px;
+}
+
+#results {
+  text-decoration: none;
+}
+
+#tfheader {
+  text-align: center;
+}
+
+.result-div {
+  padding:5px;
+  border:5px solid #e67e22;
+}
